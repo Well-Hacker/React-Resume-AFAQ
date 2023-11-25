@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"AFAQ AHMAD BHATTI",
+    "description":"I am a web development engineer. This project is a resume template that can be used as the project home page or resume page",
+    "image":"profilepic.jpg",
+    "bio":"Experienced React web developer with a passion for creating dynamic and responsive user interfaces. Proficient in front-end technologies, adept at translating design concepts into efficient and visually appealing web applications.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Ab9046887@gmail.com",
+    "phone": "+92-305-Personal",
+    "github":"https://github.com/Well-Hacker",
+    "project":"https://github.com/Well-Hacker",
+    "address":{
+      "street":"No:03",
+      "city":"Lahore",
+      "state":"54000",
+      "zip": "54000"
+    },
+    "website": "https://www.desicinemas.tv/",
+    "resumedownload":"https://desicinemas.tv/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/afaqahmadbhatti",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Well-Hacker",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Dynamic React developer with a strong proficiency in building modern and interactive user interfaces. Experienced in leveraging the latest front-end technologies to create scalable and efficient web applications. Passionate about crafting seamless user experiences and staying abreast of industry best practices.",
+    "education":[
+      {
+        "school":"Lahore Leads University",
+        "degree":"BSCS",
+        "graduated":"2023",
+        "description":"Learn alot of things Except books and study"
+      },
+      {
+        "school":"Punjab College",
+        "degree":"ICS",
+        "graduated":"2019",
+        "description":"I dont know why am wasting my time in College"
+      }
+    ],
+    "work":[
+      {
+        "company":"QB-Business ",
+        "title":"IT Administrator ",
+        "years":"April-2023 - Present",
+        "description":"Versatile IT expert with a comprehensive skill set encompassing network administration, cybersecurity, and systems integration. Proven track record of optimizing IT infrastructures for efficiency and security, coupled with a commitment to staying abreast of emerging technologies for innovative problem-solving."
+      },
+      {
+        "company":"Dream World Developers(DWD)",
+        "title":"Web Developer",
+        "years":"March 2019",
+        "description":"CEO of this Company"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Flutter",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JS",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.linkedin.com/in/affi-bhatti-b727181bb/"
+      }
+    ]
+  }
+}
